@@ -1,4 +1,18 @@
-# My Portfolio Wesbite - Overview 🚀
+🖥️ Portfolio Overview – Sawaira Maryam
+
+Hello! I'm Sawaira Maryam, a passionate Web Developer & Designer who loves creating visually stunning and interactive websites. I specialize in building modern, responsive, and user-friendly web experiences using the latest technologies like React, Three.js, and GSAP animations.
+
+✨ What you’ll find in my portfolio:
+
+Creative and interactive web projects
+
+Smooth animations & 3D experiences
+
+Clean and maintainable code
+
+A touch of personality and uniqueness in every project
+
+🎯 My goal: To turn ideas into engaging digital experiences that leave an impact.
 
 This repository contains the open source version of my porfolio website.
 Do check it out!
